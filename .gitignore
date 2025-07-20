@@ -11,6 +11,10 @@ _site
 # RubyGems
 *.gem
 
+# obsidian
+.obsidian
+Templates
+
 # NPM dependencies
 node_modules
 package-lock.json
